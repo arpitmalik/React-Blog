@@ -3,7 +3,7 @@
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
-
+Blog based purely on React, Redux.
 There are two methods for getting started with this repo.
 
 #### Familiar with Git?
